@@ -1,0 +1,51 @@
+v<!DOCTYPE html>
+<html>
+<head>
+	<title>Help my russian!</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="css/pages.css">
+
+
+</head>
+
+<body id="body">
+<header>
+		<div class="container-fluid" style="height:200px;">
+  <div class="container">
+  	<div class="row" style="margin-left: 240px;">
+  		<div class="col-3">
+  			<img id="logo" src="../images/logo.png" alt="Logo" style="margin-top: 20px;height: 150px; width: 150px;">
+  		</div>
+  		<div class="col-9" style="text-align: center; color: #737373; margin-top: 50px;margin-left: -90px;">
+  			<h1><p>Help my Russian</p></h1>
+  		</div>
+  	</div>
+  </div>
+</div>
+</header>
+	<nav class="navbar navbar-expand-xl navbar-light flex-column flex-md-row bd-navbar" id="nava">
+  <div class="collapse navbar-collapse navbar-nav-scroll" id="navbarNav">
+    <ul class="navbar-nav bd-navbar-nav flex-row">
+      <li class="nav-item active">
+        <h3><a class="nav-link" href="../index.php">Home <span class="sr-only">(current)</span></a></h3>
+      </li>
+      <li class="nav-item">
+        <h3><a class="nav-link" href="breakthrough-club.php">Breakthrough Club</a></h3>
+      </li>
+      <li class="nav-item">
+        <h3><a class="nav-link" href="courses.php">Courses</a></h3>
+        </li>
+        <li class="nav-item">
+        <h3><a class="nav-link" href="blog.php">Blog</a></h3>
+      </li>
+      <li class="nav-item">
+        <h3><a class="nav-link" href="exercises.php">Exercises</a></h3>
+        </li>
+      <li class="nav-item">
+        <h3><a class="nav-link" href="videos.php">Videos</a></h3>
+        </li>
+    </ul>
+  </div>
+</nav>
