@@ -16,10 +16,12 @@
 </div>
 
 <div class="anay container-fluid" style="background-color: #fbf7f3;">
-	<div class="desktop">
+	<div>
 	<div class="row" style="margin-top: 50px; color:#737373;">
-		<div class="col-md" style="text-align: center;">
-			<img src="images/anya.jpg" style="width: auto; height: 550px; margin-top: 50px;margin-bottom: 50px;">
+    <div class="col-md" style="text-align: center;">
+    <div class="col-lg-8" style="text-align: center;">
+      <img src="images/anya.jpg" class="img-fluid" style="width: auto; auto; margin-top: 50px;margin-bottom: 50px;">
+      </div>
 		</div>
 		<div class="col-sm">
 			<div>
@@ -56,16 +58,16 @@
 			
     <div class="col-pri col-lg" style="height: 500px;text-align: center;">
     	
-      <img id="imgblog" src="images/a-y.jpg" >
+      <img id="imgblog" class="img-fluid" src="images/a-y.jpg" >
       <div class="flex-column">
 			<h3>
-					ygfcuasbckjhasbvlasnrvlkajsnv<br>
-					cvjwniwajnvosnvjsanvoa
+					ygfc uas bckjh asbvl asnr vlk aj snv<br>
+					cvjw niw ajnv os nvj san voa
 				</h3>
-			textw;lflmwkfm'paerkm'paeorkv
-			paervaoernvoenrjv;iwejnrvliaen<br>
-			rvinaer;ivnwrlkvhbWLFHBWRHBLJWH
-			slcks.ljfnwkjfbasfvbasfvbkaejgrk<br><br>
+			tex tw;l flm wkfm 'pa erk m'p aeo rkv
+			paer vaoern voenr jv; iwej nrvl iae n<br>
+			rvina er;ivn wrlk vhbW LFHBW RHBL JWH
+			slck s.l jfnw kjfba sfvb asfvbkae jgrk<br><br>
 			<div class="but" style="margin-bottom: 50px;">
 				<div class="btn-group-toggle" data-toggle="buttons">
   					<label class="btn btn-outline-secondary btn-lg">
@@ -78,16 +80,16 @@
 		
     
     <div class="col-pri col-lg" style="height: 500px;">
-      <img id="imgblog" src="images/lessons.jpg">
+      <img id="imgblog" class="img-fluid" src="images/lessons.jpg">
       <div class="flex-column">
 			<h3>
-					ygfcuasbckjhasbvlasnrvlkajsnv<br>
-					cvjwniwajnvosnvjsanvoa
+					ygfc uas bckjh asbvl asnr vlk aj snv<br>
+					cvjw niw ajnv os nvj san voa
 				</h3>
-			textw;lflmwkfm'paerkm'paeorkv
-			paervaoernvoenrjv;iwejnrvliaen<br>
-			rvinaer;ivnwrlkvhbWLFHBWRHBLJWH
-			slcks.ljfnwkjfbasfvbasfvbkaejgrk<br><br>
+			tex tw;l flm wkfm 'pa erk m'p aeo rkv
+			paer vaoern voenr jv; iwej nrvl iae n<br>
+			rvina er;ivn wrlk vhbW LFHBW RHBL JWH
+			slck s.l jfnw kjfba sfvb asfvbkae jgrk<br><br>
 			<div class="but" style="margin-bottom: 50px;">
 				<div class="btn-group-toggle" data-toggle="buttons">
   					<label class="btn btn-outline-secondary btn-lg">
@@ -109,16 +111,16 @@
 			
     <div class="col-prim col-lg" style="height: 600px;text-align: center;border-radius: 15px;">
     	
-      <img id="imgblog" src="images/cases.png">
+      <img id="imgblog" class="img-fluid" src="images/cases.png">
       <div class="flex-column">
 			<h3>
-					ygfcuasbckjhasbvlasnrvlkajsnv<br>
-					cvjwniwajnvosnvjsanvoa
+					ygfc uas bckjh asbvl asnr vlk aj snv<br>
+					cvjw niw ajnv os nvj san voa
 				</h3>
-			textw;lflmwkfm'paerkm'paeorkv
-			paervaoernvoenrjv;iwejnrvliaen<br>
-			rvinaer;ivnwrlkvhbWLFHBWRHBLJWH
-			slcks.ljfnwkjfbasfvbasfvbkaejgrk<br><br>
+			tex tw;l flm wkfm 'pa erk m'p aeo rkv
+			paer vaoern voenr jv; iwej nrvl iae n<br>
+			rvina er;ivn wrlk vhbW LFHBW RHBL JWH
+			slck s.l jfnw kjfba sfvb asfvbkae jgrk<br><br>
 			<div class="but" style="margin-bottom: 50px;">
 				<div class="btn-group-toggle" data-toggle="buttons">
   					<label class="btn btn-outline-secondary btn-lg">
@@ -131,16 +133,16 @@
 		
     
     <div class="col-prim col-lg" style="height: 600px; text-align: center;border-radius: 15px;">
-      <img id="imgblog" src="images/a1.png">
+      <img id="imgblog" class="img-fluid" src="images/a1.png">
       <div class="flex-column">
-			<h3>
-					ygfcuasbckjhasbvlasnrvlkajsnv<br>
-					cvjwniwajnvosnvjsanvoa
+      <h3>
+					ygfc uas bckjh asbvl asnr vlk aj snv<br>
+					cvjw niw ajnv os nvj san voa
 				</h3>
-			textw;lflmwkfm'paerkm'paeorkv
-			paervaoernvoenrjv;iwejnrvliaen<br>
-			rvinaer;ivnwrlkvhbWLFHBWRHBLJWH
-			slcks.ljfnwkjfbasfvbasfvbkaejgrk<br><br>
+			tex tw;l flm wkfm 'pa erk m'p aeo rkv
+			paer vaoern voenr jv; iwej nrvl iae n<br>
+			rvina er;ivn wrlk vhbW LFHBW RHBL JWH
+			slck s.l jfnw kjfba sfvb asfvbkae jgrk<br><br>
 			<div class="but" style="margin-bottom: 50px;">
 				<div class="btn-group-toggle" data-toggle="buttons">
   					<label class="btn btn-outline-secondary btn-lg">
@@ -153,16 +155,16 @@
    <div class="w-100"></div>
 
    <div class="col-prim col-lg" style="height: 600px; text-align: center;border-radius: 15px;">
-      <img id="imgblog" src="images/a1.png">
+      <img id="imgblog" class="img-fluid" src="images/a1.png">
       <div class="flex-column">
       <h3>
-          ygfcuasbckjhasbvlasnrvlkajsnv<br>
-          cvjwniwajnvosnvjsanvoa
-        </h3>
-      textw;lflmwkfm'paerkm'paeorkv
-      paervaoernvoenrjv;iwejnrvliaen<br>
-      rvinaer;ivnwrlkvhbWLFHBWRHBLJWH
-      slcks.ljfnwkjfbasfvbasfvbkaejgrk<br><br>
+					ygfc uas bckjh asbvl asnr vlk aj snv<br>
+					cvjw niw ajnv os nvj san voa
+				</h3>
+			tex tw;l flm wkfm 'pa erk m'p aeo rkv
+			paer vaoern voenr jv; iwej nrvl iae n<br>
+			rvina er;ivn wrlk vhbW LFHBW RHBL JWH
+			slck s.l jfnw kjfba sfvb asfvbkae jgrk<br><br>
       <div class="but" style="margin-bottom: 50px;">
         <div class="btn-group-toggle" data-toggle="buttons">
             <label class="btn btn-outline-secondary btn-lg">
@@ -175,16 +177,16 @@
 
 
     <div class="col-prim col-lg" style="height: 600px; text-align: center;border-radius: 15px;">
-      <img id="imgblog" src="images/cases.png">
+      <img id="imgblog" class="img-fluid" src="images/cases.png">
       <div class="flex-column">
       <h3>
-          ygfcuasbckjhasbvlasnrvlkajsnv<br>
-          cvjwniwajnvosnvjsanvoa
-        </h3>
-      textw;lflmwkfm'paerkm'paeorkv
-      paervaoernvoenrjv;iwejnrvliaen<br>
-      rvinaer;ivnwrlkvhbWLFHBWRHBLJWH
-      slcks.ljfnwkjfbasfvbasfvbkaejgrk<br><br>
+					ygfc uas bckjh asbvl asnr vlk aj snv<br>
+					cvjw niw ajnv os nvj san voa
+				</h3>
+			tex tw;l flm wkfm 'pa erk m'p aeo rkv
+			paer vaoern voenr jv; iwej nrvl iae n<br>
+			rvina er;ivn wrlk vhbW LFHBW RHBL JWH
+			slck s.l jfnw kjfba sfvb asfvbkae jgrk<br><br>
       <div class="but" style="margin-bottom: 50px;">
         <div class="btn-group-toggle" data-toggle="buttons">
             <label class="btn btn-outline-secondary btn-lg">
@@ -313,3 +315,7 @@
   <!-- Footer -->
 </body>
 </html>
+
+<div style="text-align:center;">
+  <img src="" alt="">
+</div>

@@ -29,7 +29,7 @@
      <div class="row">
          <div class="col-lg-12">
          <div class="col-12" style="text-align: center;">
-                 <img src="'.$image.'" class="" alt="" style="width:auto;">
+                 <img src="'.$image.'" class="img-fluid" alt="" style="width:auto;">
              </div><br>
              <div class="col-12" style="height:auto;">
                   '.$title.'
