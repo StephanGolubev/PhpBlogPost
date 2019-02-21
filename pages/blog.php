@@ -28,8 +28,12 @@
 		 $out = http_build_query($get);
 		 $url = "http://localhost/test/pages/blogdetail.php?".$out."";
 					echo '<div class="col-lg-6" style="margin-top:20px;">
-					<div class="card border-dark">
-					<img class="card-img-top" src="'.$image.'" alt="Card image cap" style="margin-top:5px;height:auto;">
+					<div class="card border-dark">';
+					if ($row['image'] == NULL) {
+					}else{
+						echo '<img class="card-img-top" src="'.$image.'" alt="Card image cap" style="margin-top:5px;height:auto;">';
+					}
+					echo '
 					  <div class="card-body">
 						<h3 class="card-title">'.$title.'</h3>
 						<p class="card-text">'.$first.'</p>
@@ -67,7 +71,6 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <?php 
 echo "<br><br>";
