@@ -26,7 +26,7 @@
 		 $body = $row['body'];
 		 $get = array("id"=>"{$row['id']}");
 		 $out = http_build_query($get);
-		 $url = "http://localhost/test/pages/blogdetail.php?".$out."";
+		 $url = "http://localhost/blog/pages/blogdetail.php?".$out."";
 					echo '<div class="col-lg-6" style="margin-top:20px;">
 					<div class="card border-dark">';
 					if ($row['image'] == NULL) {
@@ -57,7 +57,7 @@
 				$title = $row['title'];
 				$get = array("id"=>"{$row['id']}");
 		 		$out = http_build_query($get);
-		 		$url = "http://localhost/test/pages/blogdetail.php?".$out."";
+		 		$url = "http://localhost/blog/pages/blogdetail.php?".$out."";
 				echo '<div class="card" style="margin-top:20px;">
 				<div class="card-body">
 				  <h5 class="card-title"><a href="'.$url.'">'.$title.'</a></h5>

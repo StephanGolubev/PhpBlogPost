@@ -52,6 +52,9 @@
       <li class="nav-item">
         <h3><a class="nav-link" href="pages/videos.php">Videos</a></h3>
         </li>
+        <li class="nav-item">
+        <h3><a class="nav-link" href="pages/addpost.php">Add post</a></h3>
+        </li>
     </ul>
   </div>
 </nav>

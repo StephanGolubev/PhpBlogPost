@@ -16,6 +16,9 @@
 				$result = mysqli_query($db,$dt) or die( mysqli_error($db));
 				
 		  ?>
+<div class="container col-lg-8 col-md-12">
+  <a href="http://localhost/blog/pages/blog.php" class="btn btn-primary">Go back</a>
+</div><br>
 
 
 <?php 

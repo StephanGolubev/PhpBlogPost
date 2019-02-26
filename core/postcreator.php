@@ -14,7 +14,7 @@ $article_code = addslashes($article_code);
 $sql = "INSERT INTO post (`image`,`title`,`first`, `body`) VALUES ('$img','$til','$fir', '$article_code')";
 
 if ($db->query($sql)==TRUE) {
-	echo "<br> New record made succsessfuly";
+	header("location:../pages/blog.php");
 } else {
 	echo "Error" . $sql . "<br>" . $conn->error;
 }

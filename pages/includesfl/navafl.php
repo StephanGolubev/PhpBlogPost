@@ -25,13 +25,13 @@
   	</div>
 </div>
 </header>
-	<nav class="navbar navbar-expand-xl navbar-collapse-md flex-column lg-row bd-navbar" data-toggle="collapse" id="nava">
-    <button class="navbar-toggler bg-secondary sticky-top" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation" style="">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  <div class="collapse navbar-collapse navbar-nav-scroll" id="navbarNav">
+<nav class="navbar navbar-expand-xl navbar-collapse-md flex-column -row bd-navbar navbar-light bg-light" data-toggle="collapse" id="nava">
+  <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
 
-    <ul class="navbar-nav bd-navbar-nav flex-row">
+    <ul class="navbar-nav bd-navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item active">
         <h3><a class="nav-link" href="../index.php">Home <span class="sr-only">(current)</span></a></h3>
       </li>
@@ -50,6 +50,9 @@
       <li class="nav-item">
         <h3><a class="nav-link" href="videos.php">Videos</a></h3>
         </li>
+        <li class="nav-item">
+        <h3><a class="nav-link" href="addpost.php">Add post</a></h3>
+      </li>
     </ul>
   </div>
 </nav>
